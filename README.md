@@ -22,12 +22,12 @@ La realidad aumentada permite complementar la experiencia del usuario a través 
 - Dispositivo con cámara
 
   ** EQUIPO DE DESARROLLO
-  
-  |--------------------------------------|----------------------|
-  | NOMBRE                               |  ROL                 |
- 
-  | Angeles González Martinez            |   Lider              |
 
+  
+  | NOMBRE                               |  ROL                 |
+  |--------------------------------------|----------------------| 
+  | Angeles González Martinez            |   Lider              |
+  |--------------------------------------|----------------------|
   |Elisahadad Mayte León de Jesús        |  Programadora        |
   |--------------------------------------|----------------------|
 
