@@ -23,10 +23,11 @@ La realidad aumentada permite complementar la experiencia del usuario a través 
 
   ** EQUIPO DE DESARROLLO
   
-  
+  |--------------------------------------|----------------------|
   | NOMBRE                               |  ROL                 |
  
   | Angeles González Martinez            |   Lider              |
 
   |Elisahadad Mayte León de Jesús        |  Programadora        |
-  
+  |--------------------------------------|----------------------|
+
