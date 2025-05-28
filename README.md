@@ -21,8 +21,9 @@ La realidad aumentada permite complementar la experiencia del usuario a través 
 - Marcador de imágenes (Hiro Marker)  
 - Dispositivo con cámara
 
-  EQUIPO DE DESARROLLO
-  ---------------------------------------|----------------------|
+  ** EQUIPO DE DESARROLLO
+  
+  |---------------------------------------|---------------------|
   | NOMBRE                               |  ROL                 |
   |--------------------------------------|----------------------|
   | Angeles González Martinez            |   Lider              |
