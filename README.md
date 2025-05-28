@@ -21,4 +21,3 @@ La realidad aumentada permite complementar la experiencia del usuario a través 
 - Marcador de imágenes (Hiro Marker)  
 - Dispositivo con cámara  
 
-This structure outlines the project "LIBRARY_AR" (Reality Augmented Translation), tailored to the interactive AR book viewer for Gabriel García Márquez's works, aligning with the development we've been working on. though it’s not explicitly included in the structure unless required. Let me know if you'd like further adjustments!
